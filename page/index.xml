@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Today I Learned</title>
+    <link>http://echorand.me/linux_voice_4/page/</link>
+    <description>Recent content in Pages on Today I Learned</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 May 2016 07:58:08 +1000</lastBuildDate>
+    <atom:link href="http://echorand.me/linux_voice_4/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://echorand.me/linux_voice_4/page/about/</link>
+      <pubDate>Fri, 13 May 2016 07:58:08 +1000</pubDate>
+      
+      <guid>http://echorand.me/linux_voice_4/page/about/</guid>
+      <description>&lt;p&gt;This is a blog about things that I learn everyday. It is built using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

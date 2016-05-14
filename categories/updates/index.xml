@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Today I Learned</title>
+    <link>http://echorand.me/linux_voice_4/categories/updates/</link>
+    <description>Recent content in Updates on Today I Learned</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 May 2016 08:05:42 +1000</lastBuildDate>
+    <atom:link href="http://echorand.me/linux_voice_4/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello world</title>
+      <link>http://echorand.me/linux_voice_4/post/hello-world/</link>
+      <pubDate>Thu, 12 May 2016 08:05:42 +1000</pubDate>
+      
+      <guid>http://echorand.me/linux_voice_4/post/hello-world/</guid>
+      <description>&lt;p&gt;Hello World! This is the first blog post in my brand new blog &amp;ldquo;Today I Learned&amp;rdquo;. I will be using this
+blog as a place to post my notes on everyday things I learn.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
