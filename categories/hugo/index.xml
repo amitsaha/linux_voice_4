@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Today I Learned</title>
+    <link>http://echorand.me/linux_voice_4/categories/hugo/</link>
+    <description>Recent content in Hugo on Today I Learned</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 May 2016 11:32:10 +1000</lastBuildDate>
+    <atom:link href="http://echorand.me/linux_voice_4/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Demo of shortcodes</title>
+      <link>http://echorand.me/linux_voice_4/post/demo-of-shortcodes/</link>
+      <pubDate>Sat, 14 May 2016 11:32:10 +1000</pubDate>
+      
+      <guid>http://echorand.me/linux_voice_4/post/demo-of-shortcodes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gohugo.io/extras/shortcodes/&#34;&gt;Shortcodes&lt;/a&gt; in Hugo allow us to achieve common tasks. For example, to link to another &lt;a href=&#34;http://echorand.me/linux_voice_4/post/hello-world/&#34;&gt;post&lt;/a&gt; or &lt;a href=&#34;http://echorand.me/linux_voice_4/page/about/&#34;&gt;page&lt;/a&gt; in our site,
+we will use the &amp;ldquo;ref&amp;rdquo; shortcode.&lt;/p&gt;
+
+&lt;p&gt;An example of embedding a GitHub gist:&lt;/p&gt;
+
+&lt;script src=&#34;//gist.github.com/amitsaha/9864ec0475dd9b68c4a38be37726e552.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo Live Reload</title>
+      <link>http://echorand.me/linux_voice_4/post/hugo-live-reload/</link>
+      <pubDate>Thu, 12 May 2016 09:20:03 +1000</pubDate>
+      
+      <guid>http://echorand.me/linux_voice_4/post/hugo-live-reload/</guid>
+      <description>&lt;p&gt;Hugo has a live reload feature which means, the moment I save this page, not only is my site content
+regenerated, but the browser also reloads the site. This means, I can see my new post without
+needing to refresh the site myself.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Today I Learned</title>
+    <link>http://echorand.me/linux_voice_4/post/</link>
+    <description>Recent content in Posts on Today I Learned</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 May 2016 11:32:10 +1000</lastBuildDate>
+    <atom:link href="http://echorand.me/linux_voice_4/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Demo of shortcodes</title>
+      <link>http://echorand.me/linux_voice_4/post/demo-of-shortcodes/</link>
+      <pubDate>Sat, 14 May 2016 11:32:10 +1000</pubDate>
+      
+      <guid>http://echorand.me/linux_voice_4/post/demo-of-shortcodes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gohugo.io/extras/shortcodes/&#34;&gt;Shortcodes&lt;/a&gt; in Hugo allow us to achieve common tasks. For example, to link to another &lt;a href=&#34;http://echorand.me/linux_voice_4/post/hello-world/&#34;&gt;post&lt;/a&gt; or &lt;a href=&#34;http://echorand.me/linux_voice_4/page/about/&#34;&gt;page&lt;/a&gt; in our site,
+we will use the &amp;ldquo;ref&amp;rdquo; shortcode.&lt;/p&gt;
+
+&lt;p&gt;An example of embedding a GitHub gist:&lt;/p&gt;
+
+&lt;script src=&#34;//gist.github.com/amitsaha/9864ec0475dd9b68c4a38be37726e552.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Syntax highlighting code</title>
+      <link>http://echorand.me/linux_voice_4/post/syntax-highlighting-code/</link>
+      <pubDate>Fri, 13 May 2016 17:02:38 +1000</pubDate>
+      
+      <guid>http://echorand.me/linux_voice_4/post/syntax-highlighting-code/</guid>
+      <description>&lt;p&gt;I learned about how to post syntax highlighted code in a post. Hugo has two
+options when it comes to syntax highlighting - server side and client side.&lt;/p&gt;
+
+&lt;p&gt;This is an example of client side highlighting. You can read all about it
+&lt;a href=&#34;http://gohugo.io/extras/highlighting/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# A line of Python
+print(&#39;Hello world&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;// A simple program in Golang
+package main
+
+import (
+     &amp;quot;fmt&amp;quot;
+)
+
+func main() {
+     fmt.Println(&amp;quot;Hello world&amp;quot;)
+ }
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo Live Reload</title>
+      <link>http://echorand.me/linux_voice_4/post/hugo-live-reload/</link>
+      <pubDate>Thu, 12 May 2016 09:20:03 +1000</pubDate>
+      
+      <guid>http://echorand.me/linux_voice_4/post/hugo-live-reload/</guid>
+      <description>&lt;p&gt;Hugo has a live reload feature which means, the moment I save this page, not only is my site content
+regenerated, but the browser also reloads the site. This means, I can see my new post without
+needing to refresh the site myself.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>http://echorand.me/linux_voice_4/post/hello-world/</link>
+      <pubDate>Thu, 12 May 2016 08:05:42 +1000</pubDate>
+      
+      <guid>http://echorand.me/linux_voice_4/post/hello-world/</guid>
+      <description>&lt;p&gt;Hello World! This is the first blog post in my brand new blog &amp;ldquo;Today I Learned&amp;rdquo;. I will be using this
+blog as a place to post my notes on everyday things I learn.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
